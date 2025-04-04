@@ -1,6 +1,6 @@
 ![logo](lecture/static/logo.png)
 
-
+Link zu unserem Kurs: https://marbl000m.github.io/diler_workshop_repository_test/ 
 
 ## "What's in this repository?"
 
